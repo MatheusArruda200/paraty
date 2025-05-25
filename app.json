@@ -1,5 +1,6 @@
 {
   "expo": {
+    "jsEngine": "hermes",
     "name": "paraty",
     "slug": "paraty",
     "version": "1.0.0",
